@@ -1,1 +1,7 @@
 271A_beautiful_year
+144A_ arrival of gen prob
+ultra math
+
+cin>>s. when s is string then it read the string until space is hitted. 
+but 
+getline(cin, s); read the entire line 
