@@ -35,10 +35,6 @@ int main(){
             s=1;
         }
     }
-    if(sumd>sums){
-        cout<<sumd<<" "<<sums;
-    }else{
-        cout<<sums<<" "<<sumd;
-    }
+    cout<<sums<<" "<<sumd;
     return 0;
 }
